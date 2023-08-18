@@ -1,0 +1,40 @@
+.DivCard {
+display: inline-block;
+background-color: rgba(88, 231, 53, 0.7);
+border-radius: 10px;
+color: white;
+overflow: hidden;
+margin: 15px 5px;
+max-width: 16rem;
+}
+
+.Button {
+background-color: yellow;
+color: black;
+border: 0px;
+width: 30px;
+border-radius: 5px;
+font-size: 15px;
+margin: 1px 1px 1px 180px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+}
+
+ .Gender {
+    display: inline-block;
+    font-Size: 15px;
+    color: red;
+    margin-right: 120px;
+    margin-left: 15px;
+       
+ }
+ 
+ .Genders {
+    display: inline-block;
+        font-Size: 16px;
+        color: white;
+ }
+
+ 

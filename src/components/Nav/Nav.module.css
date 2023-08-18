@@ -1,0 +1,31 @@
+nav{
+    /*background-color: rgb(72, 61, 139, 0.7);*/
+    background:linear-gradient(#5CAD4A, #208D45);;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+
+.links{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: aqua;
+    padding: 10px;
+    margin: 0px 15px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.links:hover{
+    transform:scale(0.96);
+    transition: center,0.5s;
+    color: purple;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+}
